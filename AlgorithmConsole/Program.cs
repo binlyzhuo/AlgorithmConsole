@@ -12,6 +12,7 @@ namespace AlgorithmConsole
 
         static int BinarySearch()
         {
+
             return -1;
         }
     }
